@@ -1,0 +1,5 @@
+npm init
+npm install --save-dev shadow-cljs
+npx shadow-cljs init
+
+npx shadow-cljs watch app
